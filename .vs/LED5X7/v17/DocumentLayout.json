@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\DATA_26UCXV6F\\LED5X7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|j:\\data_26ucxv6f\\led5x7\\led5x7.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:led5x7.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\createlibarary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:createlibarary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\createlibarary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:createlibarary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\one.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:one.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\one.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:one.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\golobalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:golobalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|J:\\DATA_26UCXV6F\\LED5X7\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{417DD9E6-AFB1-4C6D-87F2-5612486CAE63}|LED5X7.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LED5X7",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\LED5X7.csproj",
+              "RelativeDocumentMoniker": "LED5X7.csproj",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\LED5X7.csproj",
+              "RelativeToolTip": "LED5X7.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T07:07:44.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:07:34.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLibarary.xaml.cs",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\CreateLibarary.xaml.cs",
+              "RelativeDocumentMoniker": "CreateLibarary.xaml.cs",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\CreateLibarary.xaml.cs",
+              "RelativeToolTip": "CreateLibarary.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:05:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateLibarary.xaml",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\CreateLibarary.xaml",
+              "RelativeDocumentMoniker": "CreateLibarary.xaml",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\CreateLibarary.xaml",
+              "RelativeToolTip": "CreateLibarary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T02:04:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GolobalValue.cs",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\GolobalValue.cs",
+              "RelativeDocumentMoniker": "GolobalValue.cs",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\GolobalValue.cs",
+              "RelativeToolTip": "GolobalValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:57:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "One.xaml",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\One.xaml",
+              "RelativeDocumentMoniker": "One.xaml",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\One.xaml",
+              "RelativeToolTip": "One.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T01:45:24.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "One.xaml.cs",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\One.xaml.cs",
+              "RelativeDocumentMoniker": "One.xaml.cs",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\One.xaml.cs",
+              "RelativeToolTip": "One.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:49:42.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T01:42:57.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "J:\\DATA_26UCXV6F\\LED5X7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "J:\\DATA_26UCXV6F\\LED5X7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:42:53.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

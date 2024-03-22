@@ -1,0 +1,53 @@
+﻿<Window x:Class="LED5X7.MultiCharacter"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:LED5X7"
+    mc:Ignorable="d"
+    Title="CreateLibarary"
+    Height="450"
+    Width="800">
+     <Grid>
+
+          <Grid.RowDefinitions>
+               <RowDefinition />
+               <RowDefinition />
+               <RowDefinition />
+
+
+          </Grid.RowDefinitions>
+          <UserControl Name="m_UserControl">
+
+          </UserControl>
+
+          <!--<local:One HorizontalAlignment="Left"
+               VerticalAlignment="Center"
+               x:Name="Led"
+               Height="145"
+               Width="165" />-->
+          <TextBox Grid.Row="1"
+             x:Name="Character" TextChanged="Character_TextChanged_1"></TextBox>
+
+
+          <Grid Grid.Row="2">
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+
+               </Grid.ColumnDefinitions>
+               <Button Grid.Column="0"
+                Content="Pre"
+                Click="LoadPre_Click" />
+               <Button Grid.Column="1"
+                Content="Save LED States"
+                Click="SaveLEDStates_Click" />
+               <Button Grid.Column="2"
+                Content="Nex"
+                Click="LoadNext_Click" />
+
+
+          </Grid>
+     </Grid>
+</Window>
